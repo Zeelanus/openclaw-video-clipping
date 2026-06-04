@@ -1,4 +1,4 @@
-# 👑 Dokumentasi & Skrip Clipper Video Lokal Kelas King
+# 👑 Dokumentasi & Skrip Clipper Video Lokal Anjay Kelas King
 
 Berikut adalah skrip instalasi otomatis dan daftar perintah pengeditan video gratis secara lokal menggunakan **FFmpeg** dan **yt-dlp** di WSL.
 
