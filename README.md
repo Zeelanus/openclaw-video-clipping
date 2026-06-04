@@ -1,5 +1,17 @@
 # 👑 Dokumentasi & Skrip Clipper Video Lokal Anjay Kelas King
 
+Repositori ini berisi skrip otomatisasi Bash dan dokumentasi perintah teroptimasi untuk mengunduh serta memotong (clipping) video YouTube secara lokal di lingkungan WSL/Ubuntu. Memanfaatkan kombinasi yt-dlp (Versi 2026 Terbaru) untuk menembus proteksi enkripsi YouTube dan FFmpeg untuk pemotongan instan tanpa kompresi ulang (lossless). 100% Gratis, aman, dan berjalan sepenuhnya di komputer Anda tanpa memerlukan API Key pihak ketiga.
+
+Fitur Utama Repositori Ini:
+
+➤ Anti-Blokir YouTube 2026: Menggunakan integrasi file cookies manual dan instalasi pip terbaru untuk menghindari error 403 Forbidden.
+
+➤ Kualitas HD Terkunci: Formula perintah khusus untuk mengunduh video siaran langsung (Live) tepat di resolusi 720p MP4.
+
+➤ Lossless Clipping: Proses pemotongan durasi video menggunakan FFmpeg hanya memakan waktu 1-2 detik tanpa merusak kualitas visual asli.
+
+➤ Integrasi Windows-WSL: Akses file hasil render secara instan menggunakan perintah visual langsung ke File Explorer Windows.
+
 Berikut adalah skrip instalasi otomatis dan daftar perintah pengeditan video gratis secara lokal menggunakan **FFmpeg** dan **yt-dlp** di WSL.
 
 ---
