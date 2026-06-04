@@ -4,7 +4,7 @@ Berikut adalah skrip instalasi otomatis dan daftar perintah pengeditan video gra
 
 ---
 
-## 🛠️ 1. Skrip Instalasi Otomaten (`install_tools.sh`)
+## 🛠️ 1. Skrip Instalasi Otomatis (`install_tools.sh`)
 
 Salin seluruh kode di bawah ini, simpan menjadi file bernama `install_tools.sh` di folder Linux Anda, lalu jalankan untuk memasang semua alat secara otomatis:
 
