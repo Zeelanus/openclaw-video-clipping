@@ -100,3 +100,6 @@ Gunakan perintah ini untuk memunculkan folder Linux Anda langsung ke dalam File 
 explorer.exe .
 ```
 
+---
+# TERIMAKASIH
+Kalau semisal kurang paham atau bingung bisa tanyakan ke Agent atau AI kalian tq..... ૮₍˶ᵔ ᵕ ᵔ˶ ₎ა
